@@ -1,0 +1,26 @@
+#logout-btn{
+  padding: 10px;
+  background-color: red;
+}
+
+
+
+/* Thanks page stylesheet */
+.center{
+  text-align:center;
+  margin:auto;
+
+}
+
+
+
+/* Registration form  stylesheets */
+#registerForm, #loginForm{
+  background: url('/public/images/m1.jpg');
+  background-color: aliceblue;
+  
+}
+
+.logo{
+  margin-top: 20px;
+}
